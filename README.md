@@ -1,4 +1,3 @@
-# ITSecProjects
 #  👋🏽 Hi, I'm Toba  
 
 I'm an **Information Security Specialist** with a strong background in **corporate infrastructure security** and **cyber defense**.  
